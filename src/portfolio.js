@@ -308,7 +308,7 @@ const podcastSection = {
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
-    "https://open.spotify.com/embed/track/3cZUIZ8i74C1Kvnix4xZez"
+    "https://open.spotify.com/embed/track/5pvlSx0s2w3nKuyfrFnYBZ"
   ],
   display: true// Set false to hide this section, defaults to true
 };
