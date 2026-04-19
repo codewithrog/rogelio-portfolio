@@ -137,7 +137,7 @@ const techStack = {
     },
     {
       Stack: "Backend Development",
-      progressPercentage: "40%"
+      progressPercentage: "30%"
     },
     {
       Stack: "Programming",
@@ -308,7 +308,7 @@ const podcastSection = {
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
-    "https://open.spotify.com/track/3cZUIZ8i74C1Kvnix4xZez?si=4a1g31oFQdO6p1gB_THSwQ"
+    "https://open.spotify.com/embed/track/3cZUIZ8i74C1Kvnix4xZez"
   ],
   display: true// Set false to hide this section, defaults to true
 };
