@@ -188,7 +188,7 @@ const bigProjects = {
   subtitle: "Personal Website Portfolio",
   projects: [
     {
-      image: require("./assets/images/PFL.jpg"),
+      image: require("./assets/images/project-1.png"),
       projectName: "PFL Personize",
       projectDesc: "A personal developed website for future portfolio",
       footerLink: [
@@ -200,7 +200,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/BSW.jpg"),
+      image: require("./assets/images/project-2.png"),
       projectName: "Basic School Website ",
       projectDesc: "A final project for school requirement that for school website.",
       footerLink: [
